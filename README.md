@@ -50,5 +50,5 @@ npm install && npm start
 
 ## 👨‍💻 Author
 
-**Joslath ODJAGA** · Full-Stack Developer · Yaoundé, Cameroon  
+**DELE DAREL** · Full-Stack Developer · Yaoundé, Cameroon  
 [![GitHub](https://img.shields.io/badge/GitHub-FDD--io-black?style=flat&logo=github)](https://github.com/FDD-io)
